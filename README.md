@@ -1,2 +1,2 @@
-# cursor.free-aug-2018
-Homework &amp;&amp; Comments
+# This is a list of homeworks to share. 
+Each file is a separate task e.g. week.0, week.1, etc...
