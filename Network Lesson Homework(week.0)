@@ -65,27 +65,37 @@ Cross-site scripting (XSS) filter
 
 Task3. What are differences between HTTP version 1.0 and 1.1?
 navigate your browser to websites what you're frequently use (the company's website, some social networks, etc)
-Expected result:
 
+Expected result:
 list of differences between 1.0 and 1.1
 answer to question - how to pass user-data via GET? via POST? what is the diff?
 few samples of websites (and cases) where POST method is used
 
+Ответы:
+list of differences between HTTP 1.0 and 1.1
+Host в хедере, улучшенныая поддержка кеша и использование одногоTCP конекшена для множества реквестов.
+
+how to pass user-data via GET? via POST? what is the diff?
+Инфа методом get кодируется в url, инфа методом post высылается в body реквеста.
+
+few samples of websites (and cases) where POST method is used
+Поиск в http://www.liveinternet.ru/search/?q=1312321 отправляет инфу методом POST,
+Подписка на удаве http://udaff.com/subscribe/ ну все заполнение форм, поидее, методом post работает.
 
 Task4. Use the "telnet" program.
 (!) in case if your're under Windows 7/8/10 - google how to enable the "telnet" service on your system
 create the GET and HEAD package requests to google.com:80
 if you receive the "3**" status code (redirection), try to manually navigate to new-location url
-Expected result:
 
+Expected result:
 screenshot with http request
 screenshot with http response package with response-code equals to "200 OK"
+Телнет так и не запустился у меня, я использовал онлайн-телнет...
 
 
 Task5. Use actions on "Network" tab.
 try to use a "search" & "filter" fields/actions
 use ordering by columns, sorting, etc
-
 
 Expected result:
 
