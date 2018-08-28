@@ -105,11 +105,12 @@ describe what feature have you used, and how you can use it in future
 Task 6. Using the hurl.it
 create a GET request to any website
 analyze the response
-Expected result:
 
+Expected result:
 the HTTP request & response (including request-line / status-line & headers)
 description of each header line on response
-
+![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png?raw=true "Figure 1-1")
+![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png?raw=true "Figure 1-1")
 
 Task 7. Using the hurl.it
 the same as above task, but you need to create the "HEAD" requests
