@@ -114,8 +114,9 @@ description of each header line on response
 
 Get request:
 ![bimbo](/getrequest.png)
-
+Head request:
 ![dildo](/headrequest.png)
+Все хедеры я бы искал [здесь](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields), но спешу...
 
 Task 7. Using the hurl.it
 the same as above task, but you need to create the "HEAD" requests
