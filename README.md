@@ -1,3 +1,2 @@
 # This is a list of homeworks to share. 
 Each file is a separate task e.g. week.0, week.1, etc...
-![ALT](http://i.piccy.info/i9/9e12c8e5e6eb99200807d17bbc891610/1533764685/354987/1259842/kk.png?raw=true)
