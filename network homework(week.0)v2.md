@@ -1,5 +1,5 @@
 Пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения <br/>
-![alt](cursor.free-aug-2018/getrequest.png)
+![alt](/strongpeach/cursor.free-aug-2018/blob/master/getrequest.png)
 
 
 Task 1. Read.
