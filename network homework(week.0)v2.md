@@ -1,6 +1,4 @@
 Пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения <br/>
-![alt](getrequest.png)
-
 
 Task 1. Read.
 http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167
@@ -114,7 +112,10 @@ Expected result:
 the HTTP request & response (including request-line / status-line & headers)
 description of each header line on response
 
-![Figure 1-1](http://i.piccy.info/i9/9e12c8e5e6eb99200807d17bbc891610/1533764685/354987/1259842/kk.png?raw=true "Figure 1-1")
+Get request:
+![bimbo](/getrequest.png)
+
+![dildo](/headrequest.png)
 
 Task 7. Using the hurl.it
 the same as above task, but you need to create the "HEAD" requests
