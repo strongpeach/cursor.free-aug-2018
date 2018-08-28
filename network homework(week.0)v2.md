@@ -1,5 +1,5 @@
 Пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения <br/>
-![alt](/getrequest.png)
+![alt](getrequest.png)
 
 
 Task 1. Read.
