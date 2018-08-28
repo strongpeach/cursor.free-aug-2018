@@ -1,9 +1,9 @@
-пришлось покурить мануалы, что бы узнать что катинки нельзя вставлять в файл без разрешения
+пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения
 
 
 Task 1. Read.
 http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167
-https://developer.chrome.com/devtools/docs/network#network-panel-overview
+https://developer.chrome.com/devtools/docs/network#network-panel-overview <br/>
 Прочитал гугл мануал по нетворк панели.
 
 
