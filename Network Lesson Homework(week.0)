@@ -1,3 +1,4 @@
+![ALT](http://i.piccy.info/i9/9e12c8e5e6eb99200807d17bbc891610/1533764685/354987/1259842/kk.png?raw=true)
 Task 1. Read.
 http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167
 https://developer.chrome.com/devtools/docs/network#network-panel-overview
@@ -109,7 +110,7 @@ analyze the response
 Expected result:
 the HTTP request & response (including request-line / status-line & headers)
 description of each header line on response
-![Figure 1-1](http://i.piccy.info/i9/9e12c8e5e6eb99200807d17bbc891610/1533764685/354987/1259842/kk.png?raw=true "Figure 1-1")
+
 ![Figure 1-1](http://i.piccy.info/i9/9e12c8e5e6eb99200807d17bbc891610/1533764685/354987/1259842/kk.png?raw=true "Figure 1-1")
 
 Task 7. Using the hurl.it
