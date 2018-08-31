@@ -151,18 +151,18 @@ http://udaff.com/subscribe/ - Так же фильтр по XHR и посл кл
 Task 10. Using the Postman extension
 set it up, if not installed yet
 send 5 any requests (including HEAD, GET & POST) to any website
-Expected result: 
 
+Expected result:
 screenshot with request & response from Postman
-
+![postman](postman11.jpg)
 
 Task 11. Find any free hosting that provides FTP accessgoogle "ftp free hosting", or "free hosting", etc
 
 proceed registration, confirmation & get your ftp access credentials (host/port, login, password)
 using any ftp client, deploy any static files (html, any images, etc)
 provide an url (http link) that navigates to uploaded file
-Expected result:
 
+Expected result:
 direct url into uploaded file
 
 
