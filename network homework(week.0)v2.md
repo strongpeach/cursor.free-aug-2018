@@ -112,22 +112,27 @@ Expected result:
 the HTTP request & response (including request-line / status-line & headers)
 description of each header line on response
 
-Get request:
+Ответ:
 ![bimbo](/getrequest.png)
-Head request:
-![dildo](/headrequest.png)
 Все хедеры я бы искал [здесь](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields), но спешу...
 
 Task 7. Using the hurl.it
 the same as above task, but you need to create the "HEAD" requests
 
+Ответ:
+Head request:
+![dildo](/headrequest.png)
+Все хедеры я бы искал [здесь](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields), но спешу...
+
 
 Task 8. What is the different with GET request?
-Expected result:
 
+Expected result:
 the HTTP request & response (including request-line / status-line & headers)
 the answer to question about differences between HEAD and GET methods
 
+Ответ:
+Разница между GET & HEAD в том, что гет запрашивает хедеры+контент, а ХЕД запрашивает только хедеры.
 
 Task 9. Find and show few (at least 5) resources, where POST method is used
 list the URLs of resources
