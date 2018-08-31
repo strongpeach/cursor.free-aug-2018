@@ -1,9 +1,9 @@
 Пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения <br/>
 
-Task 1. Read.
+###Task 1. Read.
 http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167
 https://developer.chrome.com/devtools/docs/network#network-panel-overview <br/>
-Прочитал гугл мануал по нетворк панели.
+>Прочитал гугл мануал по нетворк панели.
 
 
 Task2. Play with Chrome Developers Toolkit (DevTools), and "Network" tab.
@@ -13,7 +13,7 @@ Open each of them one by one. (that your browser made). Analyze the GET request/
 Expected result:
 the list of websites, with request and response (including the status-line & headers) of each of them
 the list of headers (from above requests/responses) with descriptions of each (you need to google & find the purpose of each)
-Познакомился с реквестами, разобрал 1 рандом реквест:
+**Познакомился с реквестами, разобрал 1 рандом реквест:**
 
 http://proshugaring.com/
 
@@ -164,7 +164,7 @@ provide an url (http link) that navigates to uploaded file
 
 Expected result:
 direct url into uploaded file
-
+http://sellboatus.info/cursor_topchik.html
 
 
 Advanced level
