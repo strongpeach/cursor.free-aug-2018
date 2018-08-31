@@ -1,12 +1,12 @@
 Пришлось покурить мануалы markdown, что бы узнать что катинки нельзя вставлять в файл без разрешения <br/>
 
-###Task 1. Read.
+#Task 1. Read.
 http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167
 https://developer.chrome.com/devtools/docs/network#network-panel-overview <br/>
 >Прочитал гугл мануал по нетворк панели.
 
 
-Task2. Play with Chrome Developers Toolkit (DevTools), and "Network" tab.
+#Task2. Play with Chrome Developers Toolkit (DevTools), and "Network" tab.
 Choose at least 5 websites (any) - the list https://www.similarweb.com/top-websites/ukraine can be used as well (as an example of source of websites), or http://www.alexa.com/topsites/countries/UA, or any of https://en.wikipedia.org/wiki/List_of_most_popular_websites lists
 Open each of them one by one. (that your browser made). Analyze the GET request/response packagies (the homework should include the whole package text including request-line and headers). Explain each of headers line (what "User-Agent" means? what "Accept" means? what does other means?)
 
