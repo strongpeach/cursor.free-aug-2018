@@ -34,7 +34,7 @@ List of acceptable encodings
 List of acceptable human languages for response
 * cache-control: no-cache
 Used to specify directives that must be obeyed by all caching mechanisms along the request-response chain.
-cookie: IDE=AHWqTUmTyocFkggDOpc6bZ4uo1-IHYEy9gQ1VoQnI4xIvCvVZksxjq-H5nMR5b8r; DSID=ADyxuktk4Mh-fMEi0ndHrAOdU54rRuuxC2fB2ImBS2cYfFTzeY9eO0w91F4e_pu3xtDtgck80jK-g7IPc8bIUUPEJPFRk0URDYbL0bpE32M6LrICqtFoYSM
+* cookie: IDE=AHWqTUmTyocFkggDOpc6bZ4uo1-IHYEy9gQ1VoQnI4xIvCvVZksxjq-H5nMR5b8r; DSID=ADyxuktk4Mh-fMEi0ndHrAOdU54rRuuxC2fB2ImBS2cYfFTzeY9eO0w91F4e_pu3xtDtgck80jK-g7IPc8bIUUPEJPFRk0URDYbL0bpE32M6LrICqtFoYSM
 HTTP cookie previously sent by the server with Set-Cookie
 * dnt: 1
 do not track enabled
