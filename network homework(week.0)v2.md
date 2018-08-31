@@ -13,7 +13,7 @@ Open each of them one by one. (that your browser made). Analyze the GET request/
 Expected result:
 the list of websites, with request and response (including the status-line & headers) of each of them
 the list of headers (from above requests/responses) with descriptions of each (you need to google & find the purpose of each)
-######Познакомился с реквестами, разобрал 1 рандом реквест:
+###### Познакомился с реквестами, разобрал 1 рандом реквест:
 
 http://proshugaring.com/
 
