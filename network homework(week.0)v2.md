@@ -138,10 +138,15 @@ Task 9. Find and show few (at least 5) resources, where POST method is used
 list the URLs of resources
 explain how did you detect that POST method was used?
 what response was returned after request has been sent?
-Expected result:
 
+Expected result:
 list with websites & description where POST is used there
 answer to question why the POST is used there
+
+Ответы: Я думаю, любые формы с данными передают инфу методом POST. Например:
+http://www.liveinternet.ru/search/?q=%C4%C8%CB%C4%C0%CA%C8 - Я выбрал фильтр запросов по XHR и нашел там ПОСТ.
+http://udaff.com/subscribe/ - Так же фильтр по XHR и посл клика ПОДПИСАЦЦО идет пост запрос.
+Почему именно пост а не гет? - Думаю именно потому что в тело POST можно засунуть параметры из формы.
 
 Task 10. Using the Postman extension
 set it up, if not installed yet
