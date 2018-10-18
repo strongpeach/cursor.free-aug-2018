@@ -1,0 +1,32 @@
+* {
+	font-family:helvetica;
+}
+h3 {
+	color:red;
+}
+.blue {
+	color:blue;
+}
+p.red {
+	color:red;
+}
+a[href="http://udaff.com"] {
+	font-size:24px;
+}
+.container p {
+	color:pink;
+	border-left: 2px solid pink;
+	padding-left: 3px;
+}
+.conta > p {
+	color:purple;
+}
+h3 + p {
+	text-decoration:underline;
+}
+a:hover {
+	text-decoration:line-through;
+}
+a::first-letter {
+	color: blue;
+}
